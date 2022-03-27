@@ -1,2 +1,2 @@
 # BIT
-Repository for "Best Tracker Project"
+Repository for "Best Issue Tracker Project"
